@@ -1,0 +1,86 @@
+h1{
+    text-align: center;
+    color:darkorchid;
+    text-shadow:3px 3px 3px deeppink;
+    font-style: oblique;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: absolute; 
+    display: inline-flex;
+    
+}
+h2{
+    text-align: center;
+    color:darkorchid;
+    text-shadow:3px 3px 3px deeppink;
+    font-style: oblique;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: relative;  
+}
+q::before{
+    color:darkblue;
+    text-shadow:3px 3px 3px lightseagreen;
+    font-style: oblique; 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    display: inline-block;
+    
+}
+q::after{
+    color:darkblue;
+    text-shadow:3px 3px 3px lightseagreen;
+    font-style: oblique; 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    display: inline-block;
+}
+.inicios{
+    text-align: center;
+    color:darkblue;
+    text-shadow:3px 3px 3px lightseagreen;
+    font-style: oblique; 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    margin-top: 100px;
+    display: inline-block;
+}
+.finales{
+    text-align: center;
+    color:darkblue;
+    text-shadow:3px 3px 3px lightseagreen;
+    font-style: oblique; 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    display: inline-block;
+}
+input{
+    text-align: center;
+    color:darkblue;
+    text-shadow:3px 3px 3px lightseagreen;
+    font-style: oblique; 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    display: inline-block;
+    border: 10px outset blue;
+    border-radius: 20px;
+    display: inline;
+}
+label{
+    text-align: center;
+    color:#3366FF;
+    font-size: 20px;
+    font-style: oblique;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display: inline;
+   
+}
+button{
+    text-align: center;
+    color:#3366FF;
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-radius: 10px;
+    border: 10px outset blue;
+    padding:10px;
+    background-color: springgreen;
+    float: right;   
+}
